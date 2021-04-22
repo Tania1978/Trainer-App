@@ -1,0 +1,40 @@
+.my-container{
+    position:relative;
+    top:100px;
+   padding-top:20px;
+   padding-bottom:20px;
+   border-radius:8px;
+    width:60%;
+    margin:auto;
+    background-color: cadetblue;
+}
+
+a:hover{
+  color: red;
+  text-decoration: none;
+}
+
+a{
+   text-decoration: none;
+   color: darkturquoise;
+}
+.navbar{
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+
+}
+.navbar-brand
+{
+  font-family: 'Lato', sans-serif;
+  font-size: 40px;
+
+}
+
+#home{
+    margin-top:50px;
+}
+
+.errors, .error{
+    color:crimson;
+}
+
